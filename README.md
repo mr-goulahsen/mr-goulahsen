@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on full-stack web applications and security research.
 - 🎓 Background in Physics & Chemistry (Bac PC) with a passion for software engineering.
 - 🛡️ Passionate about Application Security, Vulnerability Assessment, and Ethical Hacking.
-- 🌐 Website & Portfolio: [mr-goulahssen.github.io](https://mr-goulahssen.github.io)
+- 🌐 Website & Portfolio: [mr-goulahssen.github.io](https://mr-goulahsen.github.io)
 
 ---
 
