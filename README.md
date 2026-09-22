@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there, I'm Akram-Ali Goulahsen! 
 
-<!--
-**mr-goulahsen/mr-goulahsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <b>Full-Stack Developer & Cybersecurity Enthusiast</b> based in Casablanca, Morocco 🇲🇦
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on full-stack web applications and security research.
+- 🎓 Background in Physics & Chemistry (Bac PC) with a passion for software engineering.
+- 🛡️ Passionate about Application Security, Vulnerability Assessment, and Ethical Hacking.
+- 🌐 Website & Portfolio: [mr-goulahssen.github.io](https://mr-goulahssen.github.io)
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages & Web:** HTML5, CSS3, JavaScript (ES6+), Python
+- **Backend & APIs:** Node.js, Express.js, REST APIs
+- **Tools & Platforms:** Git, GitHub, Linux, Security Tools
+
+---
+
+### 🌐 Connect with Me
+- **Portfolio:** [mr-goulahssen.github.io](https://mr-goulahssen.github.io)
+- **GitHub:** [@mr-goulahsen](https://github.com/mr-goulahsen)
