@@ -4,7 +4,6 @@ Développeur full-stack basé à Casablanca 🇲🇦 — je construis des apps w
 
 - 🔭 Actuellement sur : un outil de monitoring réseau (Scapy + dashboard WebSocket temps réel)
 - 🛠️ Stack : JavaScript, React.js, Node.js, Python, Flask
-- 🎓 Étudiant à l'ENCG Casablanca
 - 📫 akramaliglh@gmail.com
 
 ### Projets
