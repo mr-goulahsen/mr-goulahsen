@@ -1,26 +1,18 @@
-# 👋 Hey there, I'm Akram-Ali Goulahsen! 
+### Salut, moi c'est Akram 👋
 
-<p align="left">
-  <b>Full-Stack Developer & Cybersecurity Enthusiast</b> based in Casablanca, Morocco 🇲🇦
-</p>
+Développeur full-stack basé à Casablanca 🇲🇦 — je construis des apps web de A à Z.
 
----
+- 🔭 Actuellement sur : un outil de monitoring réseau (Scapy + dashboard WebSocket temps réel)
+- 🛠️ Stack : JavaScript, React.js, Node.js, Python, Flask
+- 🎓 Étudiant à l'ENCG Casablanca
+- 📫 akramaliglh@gmail.com
 
-### 🚀 About Me
-- 🔭 I’m currently working on full-stack web applications and security research.
-- 🎓 Background in Physics & Chemistry (Bac PC) with a passion for software engineering.
-- 🛡️ Passionate about Application Security, Vulnerability Assessment, and Ethical Hacking.
-- 🌐 Website & Portfolio: [github.com/mr-goulahsen/mr-goulahssen.github.io](https://github.com/mr-goulahsen/mr-goulahssen.github.io)
+### Projets
+- **Mi-Search** — encyclopédie multilingue (React, i18n, dashboard admin)
+- **Lycée Mohammed VI** — portail scolaire multi-rôles (Flask, UI navy/or)
 
----
-
-### 🛠️ Tech Stack & Skills
-- **Languages & Web:** HTML5, CSS3, JavaScript (ES6+), Python
-- **Backend & APIs:** Node.js, Express.js, REST APIs
-- **Tools & Platforms:** Git, GitHub, Linux, Security Tools
-
----
-
-### 🌐 Connect with Me
-- **Portfolio:** [mr-goulahssen.github.io](https://mr-goulahssen.github.io)
-- **GitHub:** [@mr-goulahsen](https://github.com/mr-goulahsen)
+### Stack
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
