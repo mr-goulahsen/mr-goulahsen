@@ -4,7 +4,7 @@
 
 ### Développeur Full-Stack & Cybersecurity Enthusiast basé à Casablanca, Maroc 🇲🇦
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-goulahsen&show_icons=true&theme=radical)](https://github.com/mr-goulahsen)
+
 
 </div>
 
